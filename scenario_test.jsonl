@@ -1,0 +1,5 @@
+{"schema": "boss.perception/0.1", "source_id": "test_m2", "frame_idx": 0, "ts_ms": 0, "detections": [{"track_id": 1, "cls": "palo", "score": 0.85, "bbox_xyxy": [50.0, 100.0, 120.0, 380.0], "depth_m": 4.2}]}
+{"schema": "boss.perception/0.1", "source_id": "test_m2", "frame_idx": 1, "ts_ms": 500, "detections": [{"track_id": 1, "cls": "palo", "score": 0.86, "bbox_xyxy": [55.0, 100.0, 125.0, 380.0], "depth_m": 3.5}]}
+{"schema": "boss.perception/0.1", "source_id": "test_m2", "frame_idx": 2, "ts_ms": 1000, "detections": [{"track_id": 2, "cls": "persona", "score": 0.92, "bbox_xyxy": [250.0, 80.0, 390.0, 420.0], "depth_m": 1.8}]}
+{"schema": "boss.perception/0.1", "source_id": "test_m2", "frame_idx": 3, "ts_ms": 1500, "detections": [{"track_id": 2, "cls": "persona", "score": 0.94, "bbox_xyxy": [240.0, 60.0, 400.0, 440.0], "depth_m": 1.4}]}
+{"schema": "boss.perception/0.1", "source_id": "test_m2", "frame_idx": 4, "ts_ms": 2000, "detections": [{"track_id": 3, "cls": "gradino", "score": 0.89, "bbox_xyxy": [70.0, 300.0, 200.0, 460.0], "depth_m": 0.9}]}
